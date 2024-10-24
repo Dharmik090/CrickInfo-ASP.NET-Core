@@ -1,8 +1,7 @@
 # CrickInfo - Tournament Max Flow Predictor
 
 ## Overview
-**CrickInfo** is a web application built with ASP.NET Core MVC and Entity Framework Core that helps cricket teams assess their chances of securing the top position in a tournament's points table. The application predicts whether a team can reach the top by using the **Max-Flow Algorithm** applied to a constructed bipartite graph representing matches and teams. The system analyzes remaining matches, current points, and possible future outcomes to provide a dynamic prediction of whether a team can still top the table.
-
+**CrickInfo** is a web application on ASP.NET Core MVC, Entity Framework Core-based for cricket teams to evaluate their chances of winning the top spot in a tournament's points table. It predicts the possibility of a team getting to the top by applying the Max-Flow Algorithm on a constructed bipartite graph representing matches and teams. It would then provide a dynamic prediction of whether a team could be at the top, considering remaining matches, current points, and possible future outcomes.
 ## Features
 
 - **Team & Match Management**  
