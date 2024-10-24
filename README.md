@@ -44,16 +44,3 @@ After applying the max-flow, a residual graph is created to visualize the flow o
 - **Bootstrap**  
   Used for styling and responsive design, making the interface user-friendly on all devices.
 
-## Installation and Setup
-
-### Prerequisites
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (or any other EF Core-compatible database)
-- Visual Studio or VS Code
-
-### Steps to Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/CrickInfo.git
-   cd CrickInfo
